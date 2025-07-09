@@ -19,6 +19,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="openapi" alt="openapi" width="40" height="40"/>&nbsp;
   <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp;
 
 </div>
